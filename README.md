@@ -15,16 +15,16 @@ after 21:00 hours. A train may offer first class and a sleeper may offer a cabin
 - The user should be able to create new trains, setting destinations and types
 etc.as required. Data should be validated, please note the following:
 
-a. No two trains can have the same id
+  a. No two trains can have the same id
 
-b. Sleepers depart after 21:00
+  b. Sleepers depart after 21:00
 
 - The user should be able to add passengers to a train and store their details,
 please note the following:
 
-a. Once a coach/seat is booked it may not be booked by another passenger
+  a. Once a coach/seat is booked it may not be booked by another passenger
 
-b. The user should be shown the price of the ticket, prior to confirming the
+  b. The user should be shown the price of the ticket, prior to confirming the
 booking.
 
 ## Extra functionality 
